@@ -20,8 +20,6 @@ Skills:  REACT / JS / HTML / CSS / Tailwind / Node js / express js
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anamolhasan&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/anamolhasan)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=anamolhasan)  
+ 
 
 
