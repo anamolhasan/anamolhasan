@@ -35,14 +35,13 @@ I'm **Anamol Hasan**, a passionate **Full Stack Web Developer** specializing in 
 - ✅ Used third-party APIs (Stripe, Firebase, etc.)
 
 ---
-
 ### 📂 Featured Projects
 
-| Name | Tech Stack | Live Link |
-|------|------------|-----------|
-| **Auction Gallery** | React, Tailwind, JSON, Toastify | [View](https://your-live-link.com) |
-| **English Janala** | React, Auth, Modal, Text-to-Speech | [View](https://your-live-link.com) |
-| **Gym Plan App** | React, Data Table, Pricing Modal | [View](https://your-live-link.com) |
+| Project | Stack | Description | Live Demo |
+|--------|--------|-------------|------------|
+| **Auction Gallery** | React, Tailwind, JSON, Toastify | Real-time bidding UI with favorites and filtering | [Live](https://your-auction-link.com) |
+| **English Janala** | React, Modal, Auth, Text-to-Speech | Learning platform with interactive vocabulary modal | [Live](https://your-janala-link.com) |
+| **FitZone Gym App** | React, Data Table, Pricing UI | Pricing plan display with modal + JSON data | [Live](https://your-fitzone-link.com) |
 
 ---
 
@@ -67,25 +66,6 @@ I'm **Anamol Hasan**, a passionate **Full Stack Web Developer** specializing in 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anamolhasan&show_icons=true&count_private=true)  
 
- 
-
-## 🧠 Anamol Hasan — MERN Stack Developer
-
-<p align="center">
-  <img src="banner.jpg" alt="Banner" width="100%" />
-</p>
-
-### Hi there 👋
-I'm **Anamol Hasan**, a creative and detail-oriented **Full Stack Web Developer** with a passion for building modern web apps using the **MERN stack**. From user-friendly interfaces to robust backend systems, I bring ideas to life through code.
-
----
-
-### 🚀 My Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,next,html,css,tailwind,nodejs,express,mongodb,firebase,git,github,vscode" alt="Tech Stack Icons" />
-</p>
-
 ---
 
 ### 💼 What I Do
@@ -105,16 +85,6 @@ I'm **Anamol Hasan**, a creative and detail-oriented **Full Stack Web Developer*
 - ✅ Secured REST APIs with role-based access
 - ✅ Built reusable components and hooks
 - ✅ Optimized apps for speed and SEO
-
----
-
-### 📂 Featured Projects
-
-| Project | Stack | Description | Live Demo |
-|--------|--------|-------------|------------|
-| **Auction Gallery** | React, Tailwind, JSON, Toastify | Real-time bidding UI with favorites and filtering | [Live](https://your-auction-link.com) |
-| **English Janala** | React, Modal, Auth, Text-to-Speech | Learning platform with interactive vocabulary modal | [Live](https://your-janala-link.com) |
-| **FitZone Gym App** | React, Data Table, Pricing UI | Pricing plan display with modal + JSON data | [Live](https://your-fitzone-link.com) |
 
 ---
 
