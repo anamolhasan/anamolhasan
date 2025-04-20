@@ -23,6 +23,15 @@ I'm **Anamol Hasan**, a passionate **Full Stack Web Developer** specializing in 
 - ⚙️ **Backend:** Node.js, Express.js, REST APIs, Authentication  
 - 📂 **Database:** MongoDB, Mongoose  
 - 🎨 **Tools:** Git & GitHub, VS Code, Figma, Netlify, Render
+- ---
+
+### 💼 What I Do
+
+- ⚛️ **Frontend:** React.js, Next.js, Tailwind CSS, Component Architecture
+- ⚙️ **Backend:** Node.js, Express.js, JWT Auth, REST APIs
+- 💾 **Database:** MongoDB, Firebase, Mongoose ODM
+- 🛠️ **Dev Tools:** Git & GitHub, VS Code, Netlify, Render, Postman
+- 🧪 **Others:** SweetAlert2, Toastify, AOS Animations, Text-to-Speech API
 
 ---
 
@@ -64,17 +73,17 @@ I'm **Anamol Hasan**, a passionate **Full Stack Web Developer** specializing in 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamolhasan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anamolhasan&show_icons=true&count_private=true)  
-
 ---
 
-### 💼 What I Do
+### 📈 GitHub Stats
 
-- ⚛️ **Frontend:** React.js, Next.js, Tailwind CSS, Component Architecture
-- ⚙️ **Backend:** Node.js, Express.js, JWT Auth, REST APIs
-- 💾 **Database:** MongoDB, Firebase, Mongoose ODM
-- 🛠️ **Dev Tools:** Git & GitHub, VS Code, Netlify, Render, Postman
-- 🧪 **Others:** SweetAlert2, Toastify, AOS Animations, Text-to-Speech API
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anamolhasan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anamolhasan&theme=radical" alt="Streak Stats"/>
+</p>
+
+
 
 ---
 
@@ -86,15 +95,7 @@ I'm **Anamol Hasan**, a passionate **Full Stack Web Developer** specializing in 
 - ✅ Built reusable components and hooks
 - ✅ Optimized apps for speed and SEO
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anamolhasan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anamolhasan&theme=radical" alt="Streak Stats"/>
-</p>
 
 ---
 
@@ -114,64 +115,6 @@ I'm **Anamol Hasan**, a passionate **Full Stack Web Developer** specializing in 
 Open to freelance and remote opportunities — let's turn your ideas into reality with clean, efficient, and scalable code. 💻🚀
 
 
-## 🧠 Anamol Hasan — MERN Stack Developer
-
-<p align="center">
-  <img src="banner.jpg" alt="Banner" width="100%" />
-</p>
-
-### Hi there 👋  
-I'm **Anamol Hasan**, a creative and detail-oriented **Full Stack Web Developer** with a passion for building modern web apps using the **MERN stack**. From user-friendly interfaces to robust backend systems, I bring ideas to life through code.
-
----
-
-### 🚀 My Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,next,html,css,tailwind,nodejs,express,mongodb,firebase,git,github,vscode" alt="Tech Stack Icons" />
-</p>
-
----
-
-### 💼 What I Do
-
-- ⚛️ **Frontend:** React.js, Next.js, Tailwind CSS, Component Architecture
-- ⚙️ **Backend:** Node.js, Express.js, JWT Auth, REST APIs
-- 💾 **Database:** MongoDB, Firebase, Mongoose ODM
-- 🛠️ **Dev Tools:** Git & GitHub, VS Code, Netlify, Render, Postman
-- 🧪 **Others:** SweetAlert2, Toastify, AOS Animations, Text-to-Speech API
-
----
-
-### 🏆 Key Highlights
-
-- ✅ 15+ Full Stack Projects Completed
-- ✅ Seamless UI/UX design with Tailwind + React
-- ✅ Secured REST APIs with role-based access
-- ✅ Built reusable components and hooks
-- ✅ Optimized apps for speed and SEO
-
----
-
-### 📂 Featured Projects
-
-| Project | Stack | Description | Live Demo |
-|--------|--------|-------------|------------|
-| **Auction Gallery** | React, Tailwind, JSON, Toastify | Real-time bidding UI with favorites and filtering | [Live](https://your-auction-link.com) |
-| **English Janala** | React, Modal, Auth, Text-to-Speech | Learning platform with interactive vocabulary modal | [Live](https://your-janala-link.com) |
-| **FitZone Gym App** | React, Data Table, Pricing UI | Pricing plan display with modal + JSON data | [Live](https://your-fitzone-link.com) |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anamolhasan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anamolhasan&theme=radical" alt="Streak Stats"/>
-</p>
-
----
 
 ### 📫 Let's Connect!
 
