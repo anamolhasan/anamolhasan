@@ -52,15 +52,6 @@ I'm **Anamol Hasan**, a passionate **Full Stack Web Developer** specializing in 
 | **English Janala** | React, Modal, Auth, Text-to-Speech | Learning platform with interactive vocabulary modal | [Live](https://your-janala-link.com) |
 | **FitZone Gym App** | React, Data Table, Pricing UI | Pricing plan display with modal + JSON data | [Live](https://your-fitzone-link.com) |
 
----
-
-### 📢 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/anamolhasan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 ---
 
@@ -81,31 +72,6 @@ I'm **Anamol Hasan**, a passionate **Full Stack Web Developer** specializing in 
   <img src="https://github-readme-stats.vercel.app/api?username=anamolhasan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anamolhasan&theme=radical" alt="Streak Stats"/>
-</p>
-
-
-
----
-
-### 🏆 Key Highlights
-
-- ✅ 15+ Full Stack Projects Completed
-- ✅ Seamless UI/UX design with Tailwind + React
-- ✅ Secured REST APIs with role-based access
-- ✅ Built reusable components and hooks
-- ✅ Optimized apps for speed and SEO
-
-
-
----
-
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/anamolhasan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://anamol-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
