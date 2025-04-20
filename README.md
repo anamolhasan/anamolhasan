@@ -1,7 +1,10 @@
-### Hi there 👋, i am Anamol Hasan
+<p align="center">
+  <img src="banner.png" alt="Web Developer Banner" width="100%" />
+</p>
+
+### Hi there 👋, I am Anamol Hasan
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-![Banner](/banner.png)
+
 
 
 Skills:  REACT / JS / HTML / CSS / Tailwind / Node js / express js
