@@ -176,3 +176,107 @@ I'm **Anamol Hasan**, a creative and detail-oriented **Full Stack Web Developer*
 Open to freelance and remote opportunities — let's turn your ideas into reality with clean, efficient, and scalable code. 💻🚀
 
 
+## 🧠 Anamol Hasan — MERN Stack Developer
+
+<p align="center">
+  <img src="banner.jpg" alt="Banner" width="100%" />
+</p>
+
+### Hi there 👋  
+I'm **Anamol Hasan**, a creative and detail-oriented **Full Stack Web Developer** with a passion for building modern web apps using the **MERN stack**. From user-friendly interfaces to robust backend systems, I bring ideas to life through code.
+
+---
+
+### 🚀 My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,next,html,css,tailwind,nodejs,express,mongodb,firebase,git,github,vscode" alt="Tech Stack Icons" />
+</p>
+
+---
+
+### 💼 What I Do
+
+- ⚛️ **Frontend:** React.js, Next.js, Tailwind CSS, Component Architecture
+- ⚙️ **Backend:** Node.js, Express.js, JWT Auth, REST APIs
+- 💾 **Database:** MongoDB, Firebase, Mongoose ODM
+- 🛠️ **Dev Tools:** Git & GitHub, VS Code, Netlify, Render, Postman
+- 🧪 **Others:** SweetAlert2, Toastify, AOS Animations, Text-to-Speech API
+
+---
+
+### 🏆 Key Highlights
+
+- ✅ 15+ Full Stack Projects Completed
+- ✅ Seamless UI/UX design with Tailwind + React
+- ✅ Secured REST APIs with role-based access
+- ✅ Built reusable components and hooks
+- ✅ Optimized apps for speed and SEO
+
+---
+
+### 📂 Featured Projects
+
+| Project | Stack | Description | Live Demo |
+|--------|--------|-------------|------------|
+| **Auction Gallery** | React, Tailwind, JSON, Toastify | Real-time bidding UI with favorites and filtering | [Live](https://your-auction-link.com) |
+| **English Janala** | React, Modal, Auth, Text-to-Speech | Learning platform with interactive vocabulary modal | [Live](https://your-janala-link.com) |
+| **FitZone Gym App** | React, Data Table, Pricing UI | Pricing plan display with modal + JSON data | [Live](https://your-fitzone-link.com) |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anamolhasan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anamolhasan&theme=radical" alt="Streak Stats"/>
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/anamolhasan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://anamol-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+### 🌟 Let's Build Something Great Together!
+
+Open to freelance and remote opportunities — let's turn your ideas into reality with clean, efficient, and scalable code. 💻🚀
+
+
+---
+
+### 🗣️ Testimonials
+
+> "Anamol's attention to detail and commitment to delivering high-quality solutions is unmatched. His work on our web app was exceptional!"  
+> **– Client Name, Position**
+
+> "Great experience working with Anamol! His expertise in MERN stack helped us scale our app seamlessly."  
+> **– Client Name, Position**
+
+---
+
+### 🏆 Certifications
+
+- **Certified React Developer** — [Platform Name]
+- **Node.js and Express.js** — [Platform Name]
+- **MongoDB for Developers** — [Platform Name]
+
+---
+
+### 📝 Blog
+
+Check out my latest articles on web development, MERN stack, and tech tutorials:
+
+- [How to Build a Scalable Web App with MERN Stack](https://your-blog-link.com)
+- [Best Practices for MongoDB Optimization](https://your-blog-link.com)
+- [React Hooks: A Comprehensive Guide](https://your-blog-link.com)
+
+---
