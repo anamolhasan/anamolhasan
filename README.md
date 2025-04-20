@@ -1,7 +1,7 @@
 ### Hi there 👋, i am Anamol Hasan
 #### Web Developer
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+![Banner](![banner](https://github.com/user-attachments/assets/81e25d37-44bb-435d-859e-ade5abdcc210))
 
 Skills:  REACT / JS / HTML / CSS / Tailwind / Node js / express js
 
