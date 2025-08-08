@@ -84,28 +84,3 @@ Open to freelance and remote opportunities — let's turn your ideas into realit
 </p>
 
 ---
-
-### 🌟 Let's Build Something Great Together!
-
-Open to freelance and remote opportunities — let's turn your ideas into reality with clean, efficient, and scalable code. 💻🚀
-
-
----
-
-### 🗣️ Testimonials
-
-> "Anamol's attention to detail and commitment to delivering high-quality solutions is unmatched. His work on our web app was exceptional!"  
-> **– Client Name, Position**
-
-> "Great experience working with Anamol! His expertise in MERN stack helped us scale our app seamlessly."  
-> **– Client Name, Position**
-
----
-
-### 🏆 Certifications
-
-- **Certified React Developer** — [Platform Name]
-- **Node.js and Express.js** — [Platform Name]
-- **MongoDB for Developers** — [Platform Name]
-
----
