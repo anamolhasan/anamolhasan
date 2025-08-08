@@ -40,7 +40,7 @@ I'm **Anamol Hasan**, a passionate **Full Stack Web Developer** specializing in 
 
 | Project | Stack | Description | Live Demo |
 |--------|--------|-------------|------------|
-| **Auction Gallery** | React, Tailwind, JSON, Toastify | Real-time bidding UI with favorites and filtering | [Live](https://your-auction-link.com) |
+| **Tour Zen** | React, Tailwind, JSON, Toastify | Real-time bidding UI with favorites and filtering | [Live](https://tourzen-b2ebf.web.app/) |
 | **English Janala** | React, Modal, Auth, Text-to-Speech | Learning platform with interactive vocabulary modal | [Live](https://your-janala-link.com) |
 | **FitZone Gym App** | React, Data Table, Pricing UI | Pricing plan display with modal + JSON data | [Live](https://your-fitzone-link.com) |
 
