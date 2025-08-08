@@ -19,15 +19,7 @@ I'm **Anamol Hasan**, a passionate **Full Stack Web Developer** specializing in 
 
 ### 💼 What I Do
 
-- 🧙‍♂️ **Frontend:** React.js, Tailwind CSS, Responsive UI, Component Architecture  
-- ⚙️ **Backend:** Node.js, Express.js, REST APIs, Authentication  
-- 📂 **Database:** MongoDB, Mongoose  
-- 🎨 **Tools:** Git & GitHub, VS Code, Figma, Netlify, Render
-- ---
-
-### 💼 What I Do
-
-- ⚛️ **Frontend:** React.js, Next.js, Tailwind CSS, Component Architecture
+- ⚛️ **Frontend:** React.js, Next.js, Tailwind CSS, Responsive UI, Component Architecture
 - ⚙️ **Backend:** Node.js, Express.js, JWT Auth, REST APIs
 - 💾 **Database:** MongoDB, Firebase, Mongoose ODM
 - 🛠️ **Dev Tools:** Git & GitHub, VS Code, Netlify, Render, Postman
@@ -115,15 +107,5 @@ Open to freelance and remote opportunities — let's turn your ideas into realit
 - **Certified React Developer** — [Platform Name]
 - **Node.js and Express.js** — [Platform Name]
 - **MongoDB for Developers** — [Platform Name]
-
----
-
-### 📝 Blog
-
-Check out my latest articles on web development, MERN stack, and tech tutorials:
-
-- [How to Build a Scalable Web App with MERN Stack](https://your-blog-link.com)
-- [Best Practices for MongoDB Optimization](https://your-blog-link.com)
-- [React Hooks: A Comprehensive Guide](https://your-blog-link.com)
 
 ---
