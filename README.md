@@ -1,13 +1,18 @@
-## 🧠Hi I am Anamol Hasan — MERN Stack Developer
-
 <p align="center">
   <img src="banner.jpg" alt="Banner" width="100%" />
 </p>
-
+## <h1>🧠Hi There I'm Anamol Hasan </h1>
 ### Hi there 👋  
-I'm **Anamol Hasan**, a passionate **Full Stack Web Developer** specializing in the **MERN stack**. I love building fast, responsive, and scalable web applications. From frontend design to backend logic — I handle it all with clean, maintainable code.
-
----
+ <p align="left">
+  I am an aspiring Web Developer, passionate about creating user-centric and
+  visually appealing web experiences. Driven by a continuous desire to learn, I
+  work with React.js for building interactive UIs, Node.js for server-side
+  backend development, MongoDB for data storage, and Express.js for creating
+  RESTful APIs. I also use Firebase for secure user authentication, ensuring
+  safe user interactions. Driven by a strong interest in creating optimized,
+  scalable web applications, I am constantly enhancing my skills in the evolving
+  world of web development.
+</p>
 
 ### 🚀 My Tech Stack
 
@@ -97,12 +102,6 @@ Open to freelance and remote opportunities — let's turn your ideas into realit
   /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com/?lines=A%20Dedicated%20Web%20Developer%20Focused%20on%20Web%20Applications.;Passionate%20about%20crafting%20quality%20projects.;Always%20learning%20trending%20technologies.&font=Fira%20Code&center=true&width=720&height=45&color=57cc99&vCenter=true&pause=1000&size=22"
-  /></a>
-</p>
 
 <h1 align="left">Hi There👋 I'm Zahidul Islam</h1>
 <p align="left">
