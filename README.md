@@ -367,10 +367,10 @@ Open to freelance and remote opportunities — let's turn your ideas into realit
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anamolhasan&theme=radical&hide_border=true&theme=gotham" alt="Streak Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anamolhasan&theme=gotham&hide_border=true" alt="Streak Stats"/>
     </td>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=anamolhasan&show_icons=true&theme=radical&hide_border=true&theme=gotham" alt="GitHub Stats" />
+     <img src="https://github-readme-stats.vercel.app/api?username=anamolhasan&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
