@@ -40,7 +40,7 @@
 | **Secure Tomorrow** | React, Data Table, Pricing UI | Pricing plan display with modal + JSON data | [Live](https://tomorrow-130f9.web.app/) |
 
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table >
   <tr>
     <td>
      <img src="https://github-readme-stats.vercel.app/api?username=anamolhasan&show_icons=true&locale=en&theme=gotham&rank_icon=github&hide_border=true" alt="GitHub Stats" />
@@ -52,5 +52,5 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anamolhasan&show_icons=true&locale=en&layout=compact&theme=gotham" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anamolhasan&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="top-langs" />
 </p>
