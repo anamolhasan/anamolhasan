@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.jpg" alt="Banner" width="100%" />
 </p>
-### <h1 align="left">Hi There👋 I'm Anamol Hasan </h1>
+<h1 align="left">Hi There👋 I'm Anamol Hasan</h1>
  <p align="left">
   I am an aspiring Web Developer, passionate about creating user-centric and
   visually appealing web experiences. Driven by a continuous desire to learn, I
@@ -13,7 +13,7 @@
   world of web development.
 </p>
 
-### 🚀 My Tech Stack
+### 🧠 My Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,github,vscode" />
@@ -47,20 +47,7 @@
 | **Tour Zen** | React, Tailwind, JSON, Toastify | Real-time bidding UI with favorites and filtering | [Live](https://tourzen-b2ebf.web.app/) |
 | **Plantly** | React, Modal, Auth, Text-to-Speech | Learning platform with interactive vocabulary modal | [Live](https://plantly-ff2fd.web.app/) |
 | **Secure Tomorrow** | React, Data Table, Pricing UI | Pricing plan display with modal + JSON data | [Live](https://tomorrow-130f9.web.app/) |
-
-
 ---
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anamolhasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/an.am.hsan.2024)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anamolhasan)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamolhasan)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
