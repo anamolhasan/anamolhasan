@@ -1,8 +1,7 @@
 <p align="center">
   <img src="banner.jpg" alt="Banner" width="100%" />
 </p>
-## <h1>🧠Hi There I'm Anamol Hasan </h1>
-### Hi there 👋  
+### <h1 align="left">Hi There👋 I'm Anamol Hasan </h1>
  <p align="left">
   I am an aspiring Web Developer, passionate about creating user-centric and
   visually appealing web experiences. Driven by a continuous desire to learn, I
