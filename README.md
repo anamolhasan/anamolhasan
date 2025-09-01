@@ -56,9 +56,6 @@ I'm **Anamol Hasan**, a passionate **Full Stack Web Developer** specializing in 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamolhasan)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### 📈 GitHub Stats
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
