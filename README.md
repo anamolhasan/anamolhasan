@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,next,typescript,go,materialui,nodejs,express,mongodb,postgresql,aws" />
   <br />
-  <img src="https://skillicons.dev/icons?i=prisma,docker,nginx,firebase,netlify,vercel,surge" />
+  <img src="https://skillicons.dev/icons?i=prisma,docker,nginx,firebase,netlify,vercel" />
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,discord,linkedin,npm,postman," />
 </div>
