@@ -1,6 +1,9 @@
 <p align="center">
   <img src="banner.jpg" alt="Banner" width="100%" />
 </p>
+<p align="center">
+  <img src="Your paragraph text.png" alt="Banner" width="100%" />
+</p>
 <h1 align="left">Hi There👋 I'm Anamol Hasan</h1>
  <p align="left">
   I am an aspiring Web Developer, passionate about creating user-centric and
