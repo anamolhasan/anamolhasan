@@ -17,9 +17,9 @@
 </p>
 
 ### 🧠 My Tech Stack
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,next,typescript,nodejs,express,mongodb,postgresql,firebase,git,vscode,figma" />
-</p>
+</div>
 
 ### 💼 What I Do
 - ⚛️ **Frontend:** React.js, Next.js, Tailwind CSS, Responsive UI, Component Architecture
