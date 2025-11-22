@@ -18,7 +18,7 @@
 
 ### 🧠 My Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,next,typescript,nodejs,express,mongodb,postgresql,firebase,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,next,typescript,go,nodejs,express,mongodb,postgresql,aws,prisma,docker,nginx,firebase,git,vscode,figma" />
 </div>
 
 ### 💼 What I Do
