@@ -21,11 +21,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,next,typescript,go,nodejs,express,mongodb,postgresql,aws,prisma,docker,nginx,firebase,git,vscode,figma" />
 </div> -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,next,typescript,go,materialui,nodejs,express,mongodb,postgresql,aws,prisma,docker,nginx,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,next,typescript,go,materialui,nodejs,express,mongodb,postgresql,aws," />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,aws,prisma,docker,nginx,firebase" />
+  <img src="https://skillicons.dev/icons?i=prisma,docker,nginx,firebase,netlify,vercel" />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,discord,linkedin,netlify,npm,postman," />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,discord,linkedin,npm,postman," />
 </div>
 
 ### 💼 What I Do
