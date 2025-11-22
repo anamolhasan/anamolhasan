@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,next,typescript,go,nodejs,express,mongodb,postgresql,aws,prisma,docker,nginx,firebase,git,vscode,figma" />
 </div> -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,next,typescript,go" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,next,typescript,go,shadcn" />
   <br />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,aws,prisma,docker,nginx,firebase,git,vscode,figma" />
 </div>
