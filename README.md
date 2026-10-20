@@ -30,13 +30,9 @@ I'm an aspiring web developer who loves building fast, clean, and user-focused w
 
 ### 🧠 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,materialui,nodejs,express,mongodb,postgres,go,aws" alt="Core stack" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=prisma,docker,nginx,firebase,netlify,vercel" alt="Infra and hosting" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,postman,npm" alt="Tools" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,materialui,nodejs,express,mongodb,postgres,go,aws,prisma,docker,nginx,firebase,netlify,vercel,git,github,vscode,figma,notion,postman,npm&perline=10" alt="Tech stack" />
+</p>
 
 ---
 
